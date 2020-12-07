@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://james:whiskey12@devconnector.x3jbo.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://james:whiskey12@devconnector.x3jbo.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secretkitten"
 }
